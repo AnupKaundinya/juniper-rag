@@ -1,0 +1,31 @@
+Specific specs — tests precision
+
+"What is the switching capacity of the EX3400?"
+"How much power does the EX4300 consume?"
+"What CPU does the EX4100 use?"
+"What is the DRAM on the QFX5120?"
+
+Port and density — tests table retrieval
+
+"How many 40GbE ports does the EX4300 have?"
+"What uplink options are available on the EX2300?"
+"How many Virtual Chassis members can the EX3400 support?"
+
+Feature questions — tests semantic search
+
+"Which EX switches support PoE+?"
+"Does the EX2300 support EVPN-VXLAN?"
+"Which switches support nonstop active routing?"
+"What switches support MACsec?"
+
+Cross-series comparisons — tests multi-doc retrieval
+
+"What is the difference between EX2300 and EX3400?"
+"Compare the EX4100 and EX4300 switching capacity"
+"Which is better for branch deployments, EX2300 or EX2300-C?"
+
+Use case based — tests reasoning
+
+"Which switch would you recommend for a small branch office?"
+"What switch is best for high density PoE deployments?"
+"Which Juniper switch supports the most Virtual Chassis members?"
