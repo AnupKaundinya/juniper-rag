@@ -1,5 +1,7 @@
 # Juniper Switch RAG Chatbot
 
+🔗 **Live Demo**: [juniper-rag.streamlit.app](https://your-url-here.streamlit.app)
+
 A retrieval-augmented generation chatbot that answers natural language questions about Juniper EX and QFX series switches using real datasheet content.
 
 ## Stack
